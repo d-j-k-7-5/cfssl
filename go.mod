@@ -18,7 +18,7 @@ require (
 	github.com/kylelemons/go-gypsy v0.0.0-20160905020020-08cad365cd28 // indirect
 	github.com/lib/pq v1.3.0
 	github.com/mattn/go-sqlite3 v1.10.0
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/stretchr/testify v1.4.0
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	github.com/zmap/zcrypto v0.0.0-20201128221613-3719af1573cf
@@ -26,5 +26,6 @@ require (
 	golang.org/x/crypto v0.0.0-20201124201722-c8d3bf9c5392
 	golang.org/x/lint v0.0.0-20190930215403-16217165b5de
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/tools v0.0.0-20200103221440-774c71fcf114 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
 )
